@@ -1,0 +1,3 @@
+Build a 2D heat diffusion simulator in which an unknown heat source heats a rectangular surface. The simulator generates temperature measurements at a few sensor locations, while a physics-informed machine learning model estimates the source's coordinates and strength.
+
+The model must reconstruct the hidden source using sparse measurements and the governing heat equation, rather than requiring the complete temperature field.
