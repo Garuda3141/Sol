@@ -1,12 +1,3 @@
-# cloud.py
-"""Plot temperature observations and overlay multiple heat-source locations.
-
-Examples:
-    python cloud.py
-    python cloud.py --sources simulator
-    python cloud.py --sources checkpoint --checkpoint pilnode.pt
-    python cloud.py --sources both --checkpoint pilnode.pt
-"""
 from __future__ import annotations
 
 import argparse
